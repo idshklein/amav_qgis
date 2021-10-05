@@ -89,6 +89,7 @@ output:
 -   מידע רסטרי
 
     ![](paste-ABCF63FA.png){width="400"}\
+
 -   מידע וקטורי![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Simple_vector_map.svg/1024px-Simple_vector_map.svg.png){width="400"}
 
 בקורס זה ניגע כמעט ורק במידע וקטורי.
@@ -341,5 +342,15 @@ data.frame(id = 5,name = "שלמה", age = 34,geom = st_sfc(st_multipoint(matrix
 2.  ודאו כי הקובץ מחובר, במידה ולא הוסיפו אותו עם new connection![](paste-758C71C3.png)
 
 3.  ניתן לפתוח את הפרויקט על ידי לחיצה כפולה על הסמל שלו![](paste-CDEE0F63.png)
+
+## תרגיל שישי:
+
+1.  טענו את השכבות ישירות מהקבצים
+
+2.  ארזו אותם לגאופקג'
+
+3.  שמרו אותם בפרויקט בתוך הגאופקג'
+
+4.  טענו את הפרויקט מתוך הגאופקג'
 
 <link href="my-style.css" rel="stylesheet">
