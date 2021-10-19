@@ -1,0 +1,31 @@
+<!DOCTYPE connections>
+<qgsARCGISFEATURESERVERConnections version="1.0">
+    <arcgisfeatureserver password="" username="" url="https://services.arcgis.com/V6ZHFr6zdgNZuVG0/arcgis/rest/services/Landscape_Trees/FeatureServer" authcfg="" name="trees test" referer=""/>
+    <arcgisfeatureserver password="" username="" url="https://services1.arcgis.com/yAQXemoDSgzdfV2A/ArcGIS/rest/services" authcfg="" name="אור אלכסנדרוביץ" referer=""/>
+    <arcgisfeatureserver password="" username="" url="https://services5.arcgis.com/lpNU5idl5ovS6038/ArcGIS/rest/services" authcfg="" name="אמאב" referer=""/>
+    <arcgisfeatureserver password="" username="" url="https://egozi.gsi.gov.il/arcgis/rest/services" authcfg="" name="המכון הגאולוגי" referer=""/>
+    <arcgisfeatureserver password="" username="" url="https://services6.arcgis.com/RUh9fuEfluj2ltge/ArcGIS/rest/services" authcfg="" name="הר חברון" referer=""/>
+    <arcgisfeatureserver password="" username="" url="https://ags.iplan.gov.il/arcgisiplan/rest/services/PlanningPublic/vatmal_mitchamim_muchrazim/MapServer" authcfg="" name="ותמלים" referer=""/>
+    <arcgisfeatureserver password="" username="" url="http://mapateva.org.il/arcgis/rest/services" authcfg="" name="חלהט" referer=""/>
+    <arcgisfeatureserver password="" username="" url="https://services.arcgis.com/IYUfZFmrlf94i3k0/ArcGIS/rest/services/סקר_חניה_היצע_וביקוש_אבני_שפה_וחניונים_2020/FeatureServer" authcfg="" name="חניה ירושלים" referer=""/>
+    <arcgisfeatureserver password="" username="" url="https://services2.arcgis.com/xMRYm7cNgdR5RN6F/ArcGIS/rest/services" authcfg="" name="למס" referer=""/>
+    <arcgisfeatureserver password="" username="" url="https://services3.arcgis.com/jeqc1A7OfE9m4EPO/ArcGIS/rest/services" authcfg="" name="מוריה" referer=""/>
+    <arcgisfeatureserver password="" username="" url="https://services7.arcgis.com/LNelXmPD58p66zmN/ArcGIS/rest/services" authcfg="" name="מינהל אזרחי" referer=""/>
+    <arcgisfeatureserver password="" username="" url="https://services2.arcgis.com/9xNzs4HrnCQY9yx4/arcgis/rest/services/iplan_strategy_plan_2040/FeatureServer/" authcfg="" name="מינהל התכנון אסטרטגי" referer=""/>
+    <arcgisfeatureserver password="" username="" url="https://gisn.tel-aviv.gov.il/arcgis/rest/services/WM/IView2WM/MapServer" authcfg="" name="ממג תל אביב" referer=""/>
+    <arcgisfeatureserver password="" username="" url="https://services8.arcgis.com/JcXY3lLZni6BK4El/ArcGIS/rest/services" authcfg="" name="מפ&quot;י" referer=""/>
+    <arcgisfeatureserver password="" username="" url="https://gis.health.gov.il/arcgis/rest/services" authcfg="" name="משרד הבריאות" referer=""/>
+    <arcgisfeatureserver password="" username="" url="https://services3.arcgis.com/Fqk0gVrfcnumlR5m/ArcGIS/rest/services" authcfg="" name="משרד החקלאות" referer=""/>
+    <arcgisfeatureserver password="" username="" url="https://services3.arcgis.com/PcGFyTym9yKZBRgz/arcgis/rest/services/" authcfg="" name="עוד דברים מתל אביב" referer=""/>
+    <arcgisfeatureserver password="" username="" url="https://services6.arcgis.com/NYJxeVUIgbAzroyi/arcgis/rest/services/" authcfg="" name="פשט הצפה ירקון" referer=""/>
+    <arcgisfeatureserver password="" username="" url="https://ags.iplan.gov.il/arcgisiplan/rest/services/PlanningPublic/Xplan/MapServer" authcfg="" name="קווים כחולים" referer=""/>
+    <arcgisfeatureserver password="" username="" url="https://services5.arcgis.com/dlrDjz89gx9qyfev/ArcGIS/rest/services" authcfg="" name="קורונה" referer=""/>
+    <arcgisfeatureserver password="" username="" url="https://gisviewer.jerusalem.muni.il/arcgis/rest/services/BaseLayers/MapServer" authcfg="" name="שכבות ירושלים" referer=""/>
+    <arcgisfeatureserver password="" username="" url="https://gisviewer.jerusalem.muni.il/arcgis/rest/services/BaseLayers/MapServer" authcfg="" name="שכבות עיריית ירושלים" referer=""/>
+    <arcgisfeatureserver password="" username="" url="https://services.arcgis.com/IYUfZFmrlf94i3k0/ArcGIS/rest/services" authcfg="" name="תכנית אב ירושלים דברים מדליקים" referer=""/>
+    <arcgisfeatureserver password="" username="" url="https://ags.iplan.gov.il/arcgisiplan/rest/services/PlanningPublic/compilation_tmm_darom/MapServer" authcfg="" name="תממ דרום" referer=""/>
+    <arcgisfeatureserver password="" username="" url="https://ags.iplan.gov.il/arcgisiplan/rest/services/PlanningPublic/compilation_tmm_haifa/MapServer" authcfg="" name="תממ חיפה" referer=""/>
+    <arcgisfeatureserver password="" username="" url="https://ags.iplan.gov.il/arcgisiplan/rest/services/PlanningPublic/compilation_tmm_merkaz/MapServer" authcfg="" name="תממ מרכז" referer=""/>
+    <arcgisfeatureserver password="" username="" url="https://ags.iplan.gov.il/arcgisiplan/rest/services/PlanningPublic/compilation_tmm_tzafonn/MapServer" authcfg="" name="תממ צפון" referer=""/>
+    <arcgisfeatureserver password="" username="" url="https://ags.iplan.gov.il/arcgisiplan/rest/services/PlanningPublic/ttl_all_blue_lines/MapServer" authcfg="" name="תת&quot;לים" referer=""/>
+</qgsARCGISFEATURESERVERConnections>

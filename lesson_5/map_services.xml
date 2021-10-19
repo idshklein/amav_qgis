@@ -1,0 +1,10 @@
+<!DOCTYPE connections>
+<qgsARCGISMAPSERVERConnections version="1.0">
+    <arcgismapserver password="" username="" url="https://ags.iplan.gov.il/arcgisiplan/rest/services/PlanningPublic/Xplan/MapServer" authcfg="" name="Xplan" referer=""/>
+    <arcgismapserver password="" username="" url="https://gisviewer.jerusalem.muni.il/arcgis/rest/services/Ortho2019/mapserver" authcfg="" name="test" referer=""/>
+    <arcgismapserver password="" username="" url="https://gisviewer.jerusalem.muni.il/arcgis/rest/services/Ortho2019/mapserver" authcfg="" name="אורתופוטו ירושלים" referer=""/>
+    <arcgismapserver password="" username="" url="https://gis.br7.org.il/arcgis/rest/services/basemaps" authcfg="" name="באר שבע" referer=""/>
+    <arcgismapserver password="" username="" url="http://v3.gis-net.co.il/arcgis3/rest/services/test/waze_holon/MapServer" authcfg="" name="חולון" referer=""/>
+    <arcgismapserver password="" username="" url="https://gisviewer.jerusalem.muni.il/arcgis/rest/services/Ortho2018/mapserver" authcfg="" name="תצא ירושלים 2018" referer=""/>
+    <arcgismapserver password="" username="" url="https://gisviewer.jerusalem.muni.il/arcgis/rest/services/Ortho2019/mapserver" authcfg="" name="תצא ירושלים 2019" referer=""/>
+</qgsARCGISMAPSERVERConnections>
