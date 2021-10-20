@@ -75,13 +75,20 @@
 </div>
 <div id="רשימת-הסרויסים-שלי" class="slide section level2">
 <h1>רשימת הסרויסים שלי</h1>
-<p>קישור</p>
+<p><a href="https://github.com/idshklein/amav_qgis/blob/master/lesson_5/feature_services.xml">קישור</a></p>
 </div>
 <div id="טיפים-לעבוד-עם-סרויסים" class="slide section level2">
 <h1>טיפים לעבוד עם סרויסים</h1>
 <p>הם עלולים להיות כבדים. אפשר לייצא אותם לשכבה במחשב, וככה הם ירוצו מהר יותר.</p>
 <p>יש להם סימבולוגיה משלהם בדרך כלל. לפעמים היא יכולה מאוד להועיל - אפשר לייצא סגנון אם רוצים לשמור אחר כך.</p>
 <p>אפשר להוסיף אותם כשכבות לפרויקט, בלי להוריד אותם. ככה למעשה אפשר לשלוח גאופקג’ שיש בו רק פרויקט, אבל עם המון שכבות מסרויסים. (הסתייגות - אם השרת ירד/השכבה השתנתה, זה עלול לפגוע במטרה שלכם)</p>
+</div>
+<div id="תרגיל" class="slide section level2">
+<h1>תרגיל</h1>
+<p>התחברו לסרויס של עיריית ירושלים</p>
+<p>סכמו את כמות יחידות הדיור בשכונות העיר (טיפ: השתמשו בפונקציות centroid וcount points in polygon)</p>
+<p>(ואולי גם בfix geometries)</p>
+<p>הציגו על המפה את השכונות לפי צפיפות יחידות דיור לקמ&quot;ר</p>
 </div>
 <div id="מקורות-מידע-מוסדרים" class="slide section level2">
 <h1>מקורות מידע מוסדרים</h1>
@@ -127,6 +134,7 @@
 <p>הניפוח של האוכלוסיה מתבצע על ידי עמודת wf</p>
 <p>מעברים</p>
 <p>בני משפחה ויחסיהם</p>
+<p><a href="https://data.gov.il/dataset/2010-2019">קישור</a></p>
 </div>
 <div id="סקר-סלולרי" class="slide section level2">
 <h1>סקר סלולרי</h1>
@@ -138,6 +146,7 @@
 <p>3 שכבות -</p>
 <p>חלוקה לאזורי על, 250,1250</p>
 <p>מאפייני אזור תנועה</p>
+<p><a href="https://data.gov.il/dataset/tripscelular_1819">קישור</a></p>
 </div>
 <div id="ספירות-תנועה" class="slide section level2">
 <h1>ספירות תנועה</h1>
@@ -149,7 +158,7 @@
 </div>
 <div id="חניה-בירושלים" class="slide section level2">
 <h1>חניה בירושלים</h1>
-<p>נתונים שניתן למצוא בסרויס של צוות אב</p>
+<p>נתונים שניתן למצוא בסרויס של צוות אב. מאוד מועילים</p>
 </div>
 <div id="נתוני-מהירויות" class="slide section level2">
 <h1>נתוני מהירויות</h1>
@@ -161,15 +170,25 @@
 <div id="gtfs" class="slide section level2">
 <h1>GTFS</h1>
 <p>פורמט שהוגדר על ידי גוגל, מתעדכן יומית, מכיל מידע גאוגרפי ברמת קואורדינטות של תחנות ומסלולי קו.</p>
+<p><a href="https://www.gov.il/he/departments/general/gtfs_general_transit_feed_specifications">קישור להורדה</a></p>
 </div>
 <div id="siri" class="slide section level2">
 <h1>SIRI</h1>
 <p>פרוטוקול העברת מיקום זמן אמת של אוטובוסים. קיימים נתונים אגרגטיביים בתלתן, המידע הגולמי לא חשוף לציבור.</p>
+<p>במידה ויש לארגון כתובת איי פי קבועה, אפשר לייצר סקריפטים להורדה אל מחשב מסוים.</p>
+<p><a href="https://www.gov.il/he/Departments/General/real_time_information_siri">עוד פרטים פה</a></p>
 </div>
 <div id="רב-קו-ספירות-בדלתות" class="slide section level2">
 <h1>רב קו, ספירות בדלתות</h1>
 <p>פרוטוקולים שלא חשופים לציבור בכלל, רב קו מטעמי צנעת פרט (סובל מבעיות רמאות, הוערכו בעבר בכ20% מהנסיעות בחלק מהקווים)</p>
+<p><a href="https://data.gov.il/dataset/tikufim-2021">כן חשופה אגרגציה ברמת הקו והשעה. לא לגמרי מספק.</a></p>
 <p>ספירות בדלתות - לא פרוסים בכל האוטובוסים, היו בעיות מידע רציניות, לא מונגש.</p>
+</div>
+<div id="תרגיל-מסכם-לחלק-הזה-של-הקורס" class="slide section level2">
+<h1>תרגיל מסכם לחלק הזה של הקורס</h1>
+<p>מצאו את כל הקווים העוברים בירושלים</p>
+<p>סכמו את כל הנסיעות בקווים ב2021</p>
+<p>הציגו את הקווים על המפה לפי רוחב משתנה</p>
 <p><link href="data:text/css,h1%2Ch2%2Ch3%2Ch4%2Ch5%2Ch6%2Cp%2Cdiv%2Cspan%2Cth%2Ctr%2Ctable%2Cthead%20%7Bdirection%3A%20rtl%3B%7D%2Eanglit%7Bdirection%3A%20ltr%3B%7D" rel="stylesheet"></p>
 </div>
 
